@@ -84,3 +84,5 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka4aH4uk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ka4aH4uk&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
