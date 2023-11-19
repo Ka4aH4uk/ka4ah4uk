@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/konstantin-kochetkov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https:/](https://www.instagram.com/ka4ah/)">
+  <a href="https://www.instagram.com/ka4ah/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://wa.me/+79266120387">
@@ -18,7 +18,7 @@
   <a href="https://t.me/Ka4aH">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-<a href="[https://ka4ah.tumblr.com/](https://soundcloud.com/ka4ah)">
+<a href="https://soundcloud.com/ka4ah">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud Badge"/>
   </a>
 </div>
