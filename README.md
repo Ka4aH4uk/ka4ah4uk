@@ -32,7 +32,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### About Me:
 I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, currently in Uzbekistan.
 
 - :telescope: I began my journey in mobile development at the end of 2022, successfully completed a course at the online school Skillbox, and continue to deeply study Swift.
@@ -45,7 +45,7 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :mailbox: How to contact me: [![Linkedin badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-kochetkov/)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
@@ -65,7 +65,7 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :rocket: Skills :
+### Skills :
 - UIKit, SwiftUI
 - SPM, CocoaPods
 - SnapKit, AutoLayout
@@ -79,7 +79,7 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ka4aH4uk&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ka4aH4uk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
