@@ -33,9 +33,9 @@
 </h1>
 
 ### About Me:
-I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, currently in Uzbekistan.
+I'm a iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, currently in Uzbekistan.
 
-- :telescope: I began my journey in mobile development at the end of 2022, successfully completed a course at the online school Skillbox, and continue to deeply study Swift.
+- :telescope: I started my journey in mobile development in early 2022 and continue to deeply study Swift.
 
 - :zap: Self-education is an integral part of my process: to stay up to date with the latest trends, I spend a lot of time reading technical literature and articles, solving problems on Codewars, and following thematic Telegram channels.
 
@@ -51,8 +51,6 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="Sourcetree" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
@@ -68,12 +66,13 @@ I'm a beginner iOS developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### Skills :
 - UIKit, SwiftUI
 - SPM, CocoaPods
-- SnapKit, AutoLayout
-- MVC, MVVM, MVP, SOLID
+- NSLayoutConstraint, SnapKit, AutoLayout
+- MVC, MVVM, MVP
+- SOLID, DRY, KISS
 - REST API, JSON, URLSession, Alamofire
 - CoreData, UserDefaults, @AppStorage
 - CoreAnimation
-- Grand Central Dispatch
+- GCD, Operation
 - SwiftLint
 - XCTest, XCUITest
 
